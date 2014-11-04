@@ -1,0 +1,47 @@
+body {
+    margin-top: 3em;
+}
+
+.principal {
+    margin: 3em 2em;
+    text-align: center;
+}
+
+.texto{
+	text-transform:uppercase;
+}
+
+.email{
+	text-transform:lowercase;
+}
+
+.tabela			{padding:1em; border:1px #CCCCCC solid;}
+.tabela1		{border-bottom:1px #CCCCCC solid; padding-bottom:1em}
+.tab			{padding-top:1em}
+.tab2			{margin-bottom:-1em}
+.tab3			{margin-bottom:1em}
+.botao			{padding-top:1em; width:6em}
+.bord			{border:1px #CCCCCC solid}
+
+.tabela-index	{padding:0 1em 0 1em; border:1px #CCCCCC solid;}
+.tabela1-index	{border-bottom:1px #CCCCCC solid; padding:1em 1em 0 1em}
+.linha1-index	{float:left}
+.linha2-index	{float:right}
+.botao-index	{margin-left:0}
+.botao1-index	{width:8em;}
+.botao2-index	{width:8em;}
+.box-index		{float:none}
+
+.botao-clientes	{width:8em }
+.botao2-clientes{width:6em;}
+.sel-clientes	{width:9em;}
+.caixa-clientes	{width:12em; display:block}
+.caixa-clientes-teste	{display:block}
+.caixae-clientes{float:left}
+.caixad-clientes{text-align:left}
+.tabela-clientes{padding:0em 2em 0em 2em; border:1px #CCCCCC solid;}
+.tabela-cliente1{border-bottom:1px #CCCCCC solid; padding-top:1em}
+.bord			{border:1px #CCCCCC solid}
+#botao-espaco	{margin-bottom:1em;}
+
+.botao-usuario	{width:5em}
